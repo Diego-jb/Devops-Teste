@@ -15,4 +15,4 @@ R.: Simular a solução em um ambiente de produção mais proximo da realidade, 
 5 – O que é um Test Case?
 R.:É um conjunto de condições quase que genericas, para testes de soluções, que visam testar as os requisitos minimos para uma boa aplicação, e até mesmo testar aleém dos requisitos minimos.
 
-Diego Barreto
+Diego Barreto RA: 1601016
